@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bukitjose
 - 👀 I’m interested in Programming, Design, Ui interface design.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate on Design, Programming
 - 📫 How to reach me Contact me in bukitjose15@gmail.com
 
