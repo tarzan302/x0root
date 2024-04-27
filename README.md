@@ -5,7 +5,8 @@ I primarily code in **Python/HTML,CSS,JS** as a hobby I'm messing with Windows �
 * 🐱‍💻 Dev/Programmer Enthusiast
 * 🗜  Back-end Developer Enthusiast
 * 🖥️ Front-end Developer and Designer Enthusiast
-
+* 🌱 Still learning
+  
 ### What I enjoy
 * 💾 Technology
 * 🎥 Video Production
@@ -25,7 +26,5 @@ I also enjoy plenty of other activities.
 <a href="mailto:bukitjose15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
 </a>
-
-🌱 Still learning
 
 <sub>*This README file is best viewed on <strong>Windows 10</strong></sub>
