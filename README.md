@@ -5,6 +5,11 @@ I primarily code in **Python/HTML,CSS,JS** as a hobby I'm messing with Windows �
 * 🐱‍💻 Dev/Programmer Enthusiast
 * 🗜  Back-end Developer Enthusiast
 
+### What I enjoy
+💾 Technology
+🎥 Video Production
+♟️ Chess
+
 I also enjoy plenty of other activities.
 
 ### Statistics
