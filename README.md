@@ -5,8 +5,7 @@ I primarily code in **Python/HTML,CSS,JS** as a hobby I'm messing with Windows �
 * 🐱‍💻 Dev/Programmer Enthusiast
 * 🗜  Back-end Developer Enthusiast
 
-I also enjoy plenty of other activities, and sometimes I wish there were 48 hours in a day.  
-*Life's short and I try to make it enjoyable for myself and other nice people around me.*
+I also enjoy plenty of other activities.
 
 ### Statistics
 [![Pixelcraftch GitHub stats](https://github-readme-stats.vercel.app/api?username=Pixelcraftch&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
