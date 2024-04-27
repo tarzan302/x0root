@@ -23,8 +23,4 @@ I also enjoy plenty of other activities.
 ### Now playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x3wpi4dvwjfysdd55f7ppyzamq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<a href="mailto:bukitjose15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
-</a>
-
 <sub>*This README file is best viewed on <strong>Windows 10</strong></sub>
