@@ -6,9 +6,9 @@ I primarily code in **Python/HTML,CSS,JS** as a hobby I'm messing with Windows �
 * 🗜  Back-end Developer Enthusiast
 
 ### What I enjoy
-💾 Technology
-🎥 Video Production
-♟️ Chess
+* 💾 Technology
+* 🎥 Video Production
+* ♟️ Chess
 
 I also enjoy plenty of other activities.
 
