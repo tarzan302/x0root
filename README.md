@@ -11,7 +11,7 @@ I primarily code in **Python/HTML,CSS,JS** as a hobby I'm messing with Windows s
 * 🎥 Video Production
 * ♟️ Chess
 
-I also enjoy plenty of other activities and i sometimes code in c# on visual studio :)
+I also enjoy plenty of other activities, and I sometimes code in C# in Visual Studio.
 
 ### Statistics
  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Pixelcraftch&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
