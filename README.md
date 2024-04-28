@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I primarily code in **Python/HTML,CSS,JS** as a hobby I'm messing with Windows 🛠
+I primarily code in **Python/HTML,CSS,JS** as a hobby I'm messing with Windows sometimes 🛠
 
 * 🔧 Full Stack Web Dev Enthusiast
 * 🖥️ Python Programmer Enthusiast 
