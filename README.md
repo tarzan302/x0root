@@ -2,9 +2,8 @@
 
 I primarily code in **Python/HTML,CSS,JS** as a hobby I'm messing with Windows 🛠
 
-* 🔧 Dev/Programmer Enthusiast
-* 🔌  Back-end Developer Enthusiast
-* 🖥️ Front-end Developer and Designer Enthusiast
+* 🔧 Full Stack Web Dev Enthusiast
+* 🖥️ Python Programmer Enthusiast 
 * 🌱 Still learning
   
 ### What I enjoy
