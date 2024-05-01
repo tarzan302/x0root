@@ -4,6 +4,7 @@ I primarily code in **Python/HTML,CSS,JS** as a hobby I'm messing with Windows s
 
 * 🔧 Full Stack Web Dev Enthusiast
 * 🖥️ Python Programmer Enthusiast
+* ©️  Learning C
 * 🌱 Still learning
   
 ### What I enjoy
