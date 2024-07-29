@@ -3,7 +3,7 @@
 I am a Junior Pentester with a passion for coding in **Python/C**. As a hobby, I'm messing with Windows sometimes 🛠
 
 * 🔧 Junior Pentester
-* 🖥️ Not-Too-Good Programmer
+* 🖥️ Basic Web Dev
 * 🌱 Still learning
   
 ### What I enjoy
