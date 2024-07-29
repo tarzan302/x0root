@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I primarily code in **Python/HTML,CSS,JS** as a hobby I'm messing with Windows sometimes 🛠
+I am a Junior Pentester with a passion for coding in **Python/C**. As a hobby, I'm messing with Windows sometimes 🛠
 
 * 🔧 Junior Pentester
 * 🖥️ Not-Too-Good Programmer
