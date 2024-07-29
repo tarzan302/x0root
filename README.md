@@ -3,7 +3,7 @@
 I primarily code in **Python/HTML,CSS,JS** as a hobby I'm messing with Windows sometimes 🛠
 
 * 🔧 Junior Pentester
-* 🖥️ Python Programmer Enthusiast
+* 🖥️ Not-Too-Good Programmer
 * 🌱 Still learning
   
 ### What I enjoy
