@@ -6,11 +6,17 @@ I am a Junior Pentester with a passion for coding in **Python/C**. As a hobby, I
 * 🖥️ Basic Web Dev
 * 🌱 Still learning
   
-### What I enjoy
+## What I enjoy
 * 💾 Technology
 * 🎥 Video Production
 * ♟️ Chess
 
+## Certifications
+- Advanced Cyber Security - Threats and Governance
+- Network Security
+- Introduction to Cyber Sec
+
+(Note: Im just a begginer)
 I also enjoy plenty of other activities, and I sometimes code in C# in Visual Studio.
 
 ### Statistics
