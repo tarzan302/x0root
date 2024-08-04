@@ -14,7 +14,7 @@ I am a Junior Pentester with a passion for coding in **Python/C**. As a hobby, I
 ## Certifications
 - Advanced Cyber Security - Threats and Governance
 - Network Security
-- Introduction to Cyber Sec
+- Cyber Security Threats
 
 (Note: Im just beginner)                                          
 I also enjoy plenty of other activities, and I sometimes code in C# in Visual Studio.
