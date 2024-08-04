@@ -16,7 +16,7 @@ I am a Junior Pentester with a passion for coding in **Python/C**. As a hobby, I
 - Network Security
 - Introduction to Cyber Sec
 
-(Note: Im just a begginer)                                          
+(Note: Im just a beginner)                                          
 I also enjoy plenty of other activities, and I sometimes code in C# in Visual Studio.
 
 ### Statistics
