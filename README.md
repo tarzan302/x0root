@@ -2,7 +2,7 @@
 
 I am a Junior Web Pentester with a passion for coding in **Python/C**.
 
-* 🔧 Junior Pentester
+* 🔧 Web Pentester
 * 🖥️ Basic Web Dev
 * 🌱 Still learning
   
