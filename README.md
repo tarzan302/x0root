@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I am a Junior Web Pentester with a passion for coding in **Python/Ruby**.
+I am a Junior Web Pentester with a passion for coding in **Python/Go**.
 
 * 🔧 Web Pentester
 * 🖥️ Basic Web Dev
