@@ -3,7 +3,7 @@
 I am a Junior Web Pentester with a passion for coding in **Python/Go**.
 
 * 🔧 Web Pentester
-* 🖥️ Semi-Elite
+* 🖥️ Basic Web Dev
 * 🌱 Still learning
   
 ## What I enjoy
