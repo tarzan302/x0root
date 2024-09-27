@@ -12,6 +12,7 @@ I am a Junior Web Pentester with a passion for coding in **Python/Go**.
 * ♟️ Chess
 
 ## Certifications
+- Ethical Hacking - Mobile Platforms and Network Architecture
 - Advanced Cyber Security - Threats and Governance
 - Network Security
 - Cyber Security Threats
