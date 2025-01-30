@@ -11,4 +11,4 @@
 - Cyber Security Threats
 - Encryption Basics
 
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=x0root&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.tiktok/api/top-langs/?username=@usama.maqbool=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
